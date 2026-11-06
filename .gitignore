@@ -1,1 +1,8 @@
 /build/
+/calculadora-horario/build/
+/cadastro-pessoas/cadastro
+/cadastro-pessoas/.hbmk/
+/cadastro-pessoas/dados/
+*.dbf
+*.dbt
+*.ntx
